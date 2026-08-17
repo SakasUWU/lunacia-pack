@@ -60,12 +60,14 @@ tu barra de acción:
 
 | Exposición | Qué te pasa |
 |---|---|
-| **30%** | Empiezas a toser: lentitud y hambre |
-| **60%** | Enfermas: veneno y debilidad |
-| **90%** | Agonizas: marchitamiento y oscuridad |
+| **25%** | Toses: la niebla se cierra un poco y **empiezas a oler** |
+| **50%** | Enfermas: ves la mitad, hueles el doble, hambre |
+| **75%** | Grave: casi no ves, lentitud |
+| **90%** | Agonía: doce bloques de visión, debilidad, y te huelen desde muy lejos |
 
-La niebla se cierra sobre ti según avanza, hasta dejarte con unos pocos bloques
-de visión.
+La Miasma **no te mata**. Te ciega, te quita reflejos y te hace oler — y eso es
+lo que te pone en la boca de los **Remanentes**, las cosas que viven arriba y
+cazan por el olfato. La Miasma no te mata: te entrega.
 
 **Cómo librarte:** baja por debajo de la altura 50 y el subsuelo te purga. Bajo
 techo, la exposición se congela. Y **morir no te cura** — la enfermedad se queda
@@ -117,4 +119,14 @@ Todos los créditos a sus autores:
   [Reliquified Artifacts](https://modrinth.com/mod/reliquified-artifacts) — reliquias y artefactos
 - [Curios API](https://modrinth.com/mod/curios) · [GeckoLib](https://modrinth.com/mod/geckolib) ·
   [OctoLib](https://modrinth.com/mod/shatterbyte-lib) · [Architectury API](https://modrinth.com/mod/architectury-api) — librerías
-- **Lunacia** — el mod propio del servidor (la Miasma y todo lo que viene después)
+- [The Roads More Travelled](https://modrinth.com/mod/the-roads-more-travelled) — los caminos se desgastan por donde pasa la gente (y los Remanentes)
+- [Serene Seasons](https://modrinth.com/mod/serene-seasons) · [GlitchCore](https://modrinth.com/mod/glitchcore) — estaciones: el año empieza en otoño; bajo la altura 48 los cultivos crecen siempre
+- [Corpse](https://modrinth.com/mod/corpse) — al morir dejas un cuerpo con tus cosas, y se queda ahí hasta que vuelvas (o hasta que alguien lo encuentre)
+- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) · [Sophisticated Core](https://modrinth.com/mod/sophisticated-core) — mochilas
+- [Player Animator](https://modrinth.com/mod/playeranimator) — librería de animaciones
+- [Sodium](https://modrinth.com/mod/sodium) · [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) · [Sodium Options API](https://modrinth.com/mod/sodium-options-api) ·
+  [Lithium](https://modrinth.com/mod/lithium) · [FerriteCore](https://modrinth.com/mod/ferrite-core) · [ModernFix](https://modrinth.com/mod/modernfix) ·
+  [Entity Culling](https://modrinth.com/mod/entityculling) · [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) · [Distant Horizons](https://modrinth.com/mod/distanthorizons) — rendimiento y distancia de visión
+- [AmbientSounds](https://modrinth.com/mod/ambientsounds) · [CreativeCore](https://modrinth.com/mod/creativecore) ·
+  [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) — sonido y ambiente
+- **Lunacia** — el mod propio del servidor (la ficha, la Miasma, los Remanentes y todo lo que viene después)
