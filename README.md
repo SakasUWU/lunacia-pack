@@ -129,4 +129,8 @@ Todos los créditos a sus autores:
   [Entity Culling](https://modrinth.com/mod/entityculling) · [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) · [Distant Horizons](https://modrinth.com/mod/distanthorizons) — rendimiento y distancia de visión
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds) · [CreativeCore](https://modrinth.com/mod/creativecore) ·
   [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) — sonido y ambiente
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) · [Framework](https://www.curseforge.com/minecraft/mc-mods/framework) — goblins comerciantes en las cuevas
+- [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes) · [YUNG's API](https://modrinth.com/mod/yungs-api) · [TerraBlender](https://modrinth.com/mod/terrablender) ·
+  [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts) · [Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons) · [Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds) ·
+  [Underground Villages](https://modrinth.com/mod/underground-villages) — el subsuelo: biomas, minas, mazmorras, fortalezas y aldeas bajo tierra
 - **Lunacia** — el mod propio del servidor (la ficha, la Miasma, los Remanentes y todo lo que viene después)
