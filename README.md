@@ -73,6 +73,25 @@ cazan por el olfato. La Miasma no te mata: te entrega.
 techo, la exposición se congela. Y **morir no te cura** — la enfermedad se queda
 contigo. Solo bajar funciona.
 
+### Los Remanentes
+
+Lo que vive arriba. Cazan por el olor y el ruido, estudian antes de atacar, cazan en manada
+y **aprenden de ti**: por dónde sales, a qué hora, dónde has muerto. Desde la 0.10 **te
+esperan agazapados junto a tu boca a tu hora**, se acercan por donde no los ves y por
+detrás de tus antorchas, y **se cansan**: a uno solo se le puede correr quince segundos;
+a tres no, porque se relevan.
+
+### Los goblins
+
+Lo que vive abajo, en las minas abandonadas y a la sombra de las aldeas subterráneas.
+Pálidos, pequeños, débiles — y listos. **Minan y talan** lo que hay, lo guardan en el
+**cofre de su campamento**, su artesano **fabrica herramientas** (piedra, luego hierro) que
+verás en sus manos, y **construyen** su campamento con lo que sacan. Pelean en escuadra
+después de contarte: si vas solo y flojo, van; si les matas a uno o vas armado, **se
+retiran, llaman y vuelven más**. Abren puertas, ponen antorchas (su luz delata un
+campamento cerca) y **nunca suben a la superficie**. No rompen nada tuyo: solo lo natural
+o de mina, y jamás dentro de un reino reclamado.
+
 ### Máscaras
 
 Tres niveles, cada una filtra más. Basta con llevarla en la mochila (cuenta la
