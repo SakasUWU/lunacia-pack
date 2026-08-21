@@ -109,11 +109,44 @@ tienes que exponerte a ella.
 
 ---
 
+### Renaceres
+
+Al llegar al **nivel máximo** puedes entregarlo todo —nivel, atributos, rama y nodos— y a
+cambio el techo se dispara. El **primer renacer** solo pide **nivel 30**; a partir de ahí, **300**.
+
+Lo que se pierde se recupera jugando. Lo que **no se pierde nunca** son los **puntos de Renacer**
+y todo lo que compres con ellos en el **Árbol Eterno**: una malla de cinco sectores —Carne,
+Pulmón, Sombra, Furia y Raíz— cada uno con su **piedra angular** al final del camino. Se abre con
+`/ficha eterno` y se ve en pantalla, no en un cofre.
+
+Además, cada renacer:
+
+- **despierta una ventaja nueva de tu especie** (hasta cinco);
+- **agranda el árbol normal**: hay nodos que sencillamente no existen en una primera vida — una
+  capa al primer renacer, otra al segundo y una **corona** por rama al tercero;
+- **multiplica los puntos de árbol** que da cada nivel.
+
+Y desde esta versión, **elegir un camino ya no cierra el otro**: dentro de un mismo árbol puedes
+comprarlo todo si tienes puntos. Lo que limita es el coste, no una puerta cerrada.
+
+### En combate
+
+Mientras estás peleando aparece un contador (`en combate`) y **los atajos se apagan**: nada de
+teletransportarte a salvo a media pelea. Contra bichos dura 12 segundos y no tiene más castigo
+—huir de un Remanente es parte del juego—, pero **contra otro jugador dura 20 y desconectarte
+mata**. Cerrar el juego con la marca de un bicho no te cuesta nada.
+
+---
+
 ## Comandos útiles
 
 | Comando | Qué hace |
 |---|---|
 | `/miasma` | Ver tu nivel de exposición |
+| `/ficha` | Tu personaje: atributos, nivel y puntos |
+| `/ficha menu` | El árbol de habilidades |
+| `/ficha renacer` | Renacer (pide confirmación: no hay vuelta atrás) |
+| `/ficha eterno` | El Árbol Eterno |
 | `/k` | KingdomsX — reinos, territorios y guerras |
 | `/co inspect` | CoreProtect — ver quién puso o rompió un bloque |
 
